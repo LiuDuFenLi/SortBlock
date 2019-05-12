@@ -1,4 +1,4 @@
-if($('#goodsdrag').length != 0){
+if($('#J_info-flow').length != 0){
 	(function (){
 		window.x = new Sortable(goodsdrag, {
 			group: "goodsdrag",
